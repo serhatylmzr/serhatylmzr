@@ -25,7 +25,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatmaca&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatylmzr&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
 
 ![Serhat's github stats](https://github-readme-stats.vercel.app/api?username=serhatylmzr&show_icons=true&theme=dark)
 
@@ -35,5 +35,4 @@
 ![](https://komarev.com/ghpvc/?username=serhatylmzr)
 
 
-[LinkedIn]: https://www.linkedin.com/in/ibrahimatmaca/
-[Instagram]: https://www.instagram.com/ibrahimatmaca61/
+[LinkedIn]: https://www.linkedin.com/in/serhat-yilmazer/
