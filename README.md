@@ -1,5 +1,5 @@
-### About Me 👋
-
+<h1 align="center">Hi 👋, I'm **Serhat**</h1>
+I'm a passionate **software developer** living in **Turkey**,
 <!--
 **serhatylmzr/serhatylmzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -41,16 +41,15 @@
 <p align="left">
 <a href="https://linkedin.com/in/serhat-yilmazer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatyilmazer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8732671/serhatylmzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17797499" height="30" width="40" /></a>
-<a href="https://instagram.com/serhatylmzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serhatylmzr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/serhatylmzr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serhatylmzr" height="30" width="40" /></a>
 </p>
-
 <br>
-<br>
-
-
+<details>
+  <summary>More...</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatylmzr&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
 
 ![Serhat's github stats](https://github-readme-stats.vercel.app/api?username=serhatylmzr&show_icons=true&theme=dark)
+</details>
 
 ### ---------------------------------------------------------------------
 
