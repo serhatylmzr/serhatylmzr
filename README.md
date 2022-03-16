@@ -43,8 +43,11 @@ I'm a passionate software developer living in Turkey,
 <br>
 <details>
   <summary>More...</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatylmzr&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
-![Serhat's github stats](https://github-readme-stats.vercel.app/api?username=serhatylmzr&show_icons=true&theme=dark)
+   
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatylmzr&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
+
+   ![Serhat's github stats](https://github-readme-stats.vercel.app/api?username=serhatylmzr&show_icons=true&theme=dark)
 
 ### Visitors :speech_balloon:
 ![](https://komarev.com/ghpvc/?username=serhatylmzr)
