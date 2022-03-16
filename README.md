@@ -7,7 +7,6 @@ I'm a passionate software developer living in Turkey,
 - 🌱 I’m currently learning Flutter,
 - ✨ My Hobbies: Machine Learning, Deep Learning, Image Processing
 - 📫 How to reach me **serhatylmzr@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -34,8 +33,6 @@ I'm a passionate software developer living in Turkey,
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>
 </p>
-
-<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,12 +44,13 @@ I'm a passionate software developer living in Turkey,
 <details>
   <summary>More...</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatylmzr&layout=compact)](https://github.com/serhatylmzr/github-readme-stats)
-
 ![Serhat's github stats](https://github-readme-stats.vercel.app/api?username=serhatylmzr&show_icons=true&theme=dark)
+
+### Visitors :speech_balloon:
+![](https://komarev.com/ghpvc/?username=serhatylmzr)
 </details>
 
 ### ---------------------------------------------------------------------
 
-### Visitors :speech_balloon:
-![](https://komarev.com/ghpvc/?username=serhatylmzr)
+
 
