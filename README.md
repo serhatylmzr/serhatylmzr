@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1>
-I'm a passionate software developer living in Turkey,
+<h3 align="center">Flutter Developer from Turkey</h3>
+
 <!--
 **serhatylmzr/serhatylmzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
