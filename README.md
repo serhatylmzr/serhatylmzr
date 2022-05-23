@@ -5,7 +5,7 @@
 **serhatylmzr/serhatylmzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Flutter,
+- 🌱 I’m currently learning Flutter,Swift
 - ✨ My Hobbies: Machine Learning, Deep Learning, Image Processing
 - 📫 How to reach me **serhatylmzr@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
